@@ -29,4 +29,4 @@ Where the user name followed by `-u` or `--user` can be your specified user to l
 
 ## Authors
 
-* **Ke (Julie) Ji**
+* **Ke (Julie) Ji** - [Julie](https://github.com/juliekeji777/fun.git)
